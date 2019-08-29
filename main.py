@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 def main(text):
-	# Print message
+	# LALALALALALALA
     print(text)
 
 main("Hey!")
